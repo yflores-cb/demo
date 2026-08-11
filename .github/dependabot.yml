@@ -17,6 +17,6 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
-      labels:
-        - "bundlerr"
-        - "nhdvvnhn"
+    labels:
+      - "bundlerr"
+      - "nhdvvnhn"
