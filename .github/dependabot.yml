@@ -9,7 +9,12 @@ updates:
     directory: "/javascript"
     schedule:
       interval: "weekly"
+    labels:
+      - "npmmmsms"
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
       interval: "weekly"
+      labels:
+        - "bundlerr"
+        - "nhdvvnhn"
